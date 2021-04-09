@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+https://github-readme-stats.vercel.app/api?username=villanuevajamesfvillanueva&show_icons=true&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321
 <!--
 **villanuevajamesfvillanueva/villanuevajamesfvillanueva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
