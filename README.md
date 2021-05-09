@@ -26,4 +26,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=villanuevajamesfvillanueva&" alt="villanuevajamesfvillanueva" /></p>
 
 
-<a href="https://www.codewars.com/users/villanuevajamesfvillanueva"><img src="https://www.codewars.com/users/villanuevajamesfvillanueva/badges/micro" alt=""></a>
+<a href="https://www.codewars.com/users/villanuevajamesfvillanueva"><img src="https://www.codewars.com/users/villanuevajamesf/badges/large" alt=""></a>
