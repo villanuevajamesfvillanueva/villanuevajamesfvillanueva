@@ -24,3 +24,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=villanuevajamesfvillanueva&show_icons=true&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321" alt="villanuevajamesfvillanueva" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=villanuevajamesfvillanueva&" alt="villanuevajamesfvillanueva" /></p>
+
+
+<a href="https://www.codewars.com/users/villanuevajamesfvillanueva"><img src="https://www.codewars.com/users/villanuevajamesfvillanueva/badges/micro" alt=""></a>
