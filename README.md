@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [my portfolio](https://villanuevajamesfvillanueva.github.io/batch6-activities/)
 
-- 🌱 I’m currently learning **html, css, javascript, react**
+- 🌱 I’m currently learning **Ruby on Rails**
 
 - 📫 How to reach me **villanuevajamesfvillanueva@gmail.com**
 
