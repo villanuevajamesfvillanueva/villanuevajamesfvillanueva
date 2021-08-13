@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm James</h1>
-<h3 align="center">An aspiring web and mobile developer. Currently a student at Avion School</h3>
+<h3 align="center">An aspiring web and mobile developer. Recently graduated from Avion School</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=villanuevajamesfvillanueva&row=1" alt="villanuevajamesfvillanueva" /></a> </p>
 
