@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=villanuevajamesfvillanueva&row=1" alt="villanuevajamesfvillanueva" /></a> </p>
 
-- 🔭 I’m currently working on [my portfolio](https://villanuevajamesfvillanueva.github.io/batch6-activities/)
+- 🔭 I’m currently working on [my portfolio](https://villanuevajamesfvillanueva.github.io/portfolio/)
 
 - 🌱 I’m currently learning **Ruby on Rails**
 
