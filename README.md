@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm James</h1>
-<h3 align="center">An aspiring web and mobile developer. Recently graduated from Avion School</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=villanuevajamesfvillanueva&row=1" alt="villanuevajamesfvillanueva" /></a> </p>
-
-- 🔭 I’m currently working on [my portfolio](https://villanuevajamesfvillanueva.github.io/portfolio/)
-
-- 🌱 I’m currently learning **Ruby on Rails**
-
-- 📫 How to reach me **villanuevajamesfvillanueva@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
